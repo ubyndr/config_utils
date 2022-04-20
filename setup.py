@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="config-autogenerate-utils-ubyndr",
+    name="cap-pipeline-config-utils",
     version="0.0.1",
     author="Ugur Bayindir",
     author_email="ugur@ebi.ac.uk",
